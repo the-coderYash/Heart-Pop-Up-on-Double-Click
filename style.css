@@ -9,6 +9,7 @@ body {
   text-align: center;
   overflow: hidden;
   margin: 0;
+  background-color: aliceblue;
 }
 
 h3 {
@@ -32,6 +33,7 @@ small {
   background: url('https://images.unsplash.com/photo-1504215680853-026ed2a45def?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80')
     no-repeat center center/cover;
   margin: auto;
+  border-radius: 8px;
   cursor: pointer;
   max-width: 100%;
   position: relative;
